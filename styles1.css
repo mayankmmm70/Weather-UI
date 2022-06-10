@@ -14,9 +14,21 @@ body {
     background-size: cover;
 }
 
+.heading{
+    color: black;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 0px;
+    font-size: 3rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-shadow: 3px 5px rgba(210, 213, 223, 0.3);
+    text-decoration-color: blue;
+    font-weight: bold;
+}
+
 .app-main {
     width: 50vh;
-    margin: 100px auto;
+    margin: 40px auto;
     background-color: rgba(240,248,255, 0.6);
     padding: 20px;
     text-align: center;
@@ -73,3 +85,4 @@ body {
     font-size: 12pt;
     font-weight: 600;
 }
+
